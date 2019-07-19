@@ -1,4 +1,4 @@
-# nyc-arrests
+# A data analysis and spatial mapping of 2006-2018 NYC arrests
  
 Taking a look at dates, demographics, and locations of arrests in NYC from 2006 to 2018 – both overall and over time – with pandas, seaborn, and folium libraries.
 
